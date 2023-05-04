@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![My Resume](https://img.shields.io/badge/-MY%20RESUME-red)](https://maxiulibarrie.github.io/resume/)) 
+[![My Resume](https://img.shields.io/badge/-MY%20RESUME-red)](https://maxiulibarrie.github.io/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxiulibarrie) 
 
 # 💻 Tech Stack:
