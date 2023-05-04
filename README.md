@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Globant as Data Scientist<br>🌱 I’m currently learning NLP (Natural Language Processing)<br>📫 How to reach me: https://www.linkedin.com/in/maxiulibarrie/<br>⚡ Fun fact: I love acting classes.
+🔭 I’m currently working at Globant as a Data Scientist<br>🌱 I’m currently learning NLP (Natural Language Processing) and Machine Learning Engineering<br>⚡ Fun fact: I love acting classes.
 
 
 ## 🌐 Socials:
