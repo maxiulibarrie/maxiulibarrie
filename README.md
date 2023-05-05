@@ -1,9 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working at Globant as a Data Scientist<br>🌱 I’m currently learning NLP (Natural Language Processing) and Machine Learning Engineering<br>⚡ Fun fact: I love acting classes.
+🐍 I’m currently working at Globant as a Data Scientist.<br>
+🤗 I’m currently learning about state-of-the-art NLP and Machine Learning Engineering.<br>
+🧘‍♂️ I love acting classes.
 
 
 ## 🌐 Socials:
-[![My Resume](https://img.shields.io/badge/-MY%20RESUME-red)](https://maxiulibarrie.github.io/resume/)
+[![My Resume](https://img.shields.io/badge/-MY%20RESUME-red)](https://maxiulibarrie.github.io/resume/)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxiulibarrie) 
 
 # 💻 Tech Stack:
