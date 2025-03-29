@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐍 I’m currently working at Fligoo as a Data Scientist.<br>
+🚀 I’m currently working at MUTT DATA as a Data Developer.<br>
 🤗 I’m currently learning about state-of-the-art NLP and Machine Learning Engineering.<br>
 🎭 I love acting classes.
 
